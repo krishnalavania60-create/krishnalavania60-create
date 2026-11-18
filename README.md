@@ -47,7 +47,7 @@ A productivity application concept combining focus sessions, reminders, alarms, 
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,git,github,vscode&theme=dark"/></div>Currently exploring programming fundamentals, interactive interfaces, AI tools and 3D development.
 
-### **`🏆 EXPERIENCES & MILESTONES`**
+### **`🏆 EXP & MILESTONES`**
 
 Field| Experience
 🎞️ Content Creation| 1,500–2,000 YouTube subscribers
