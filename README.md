@@ -26,6 +26,7 @@ I enjoy exploring different fields, experimenting with ideas and turning concept
 - 🔭 Science, space and emerging technologies.
 - 🎮 CODM (Ex-esport player)
 
+
 ### **`🪐 THINGS I'M BUILDING`**
 
 🧬 01. NEURAL — Inside the Human Mind
