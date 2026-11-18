@@ -1,4 +1,4 @@
-## Yoo 🪐✌🏻
+## Yoo ✌🏻, how're u doing?
 
 **<div align="center"><ins>✨ THINK · CREATE · EXPLORE ✨</ins>**
 
