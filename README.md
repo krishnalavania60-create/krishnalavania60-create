@@ -76,9 +76,9 @@ Always interested in discovering new ideas, exploring interesting projects and l
 
 <div align="center">""GitHub" (https://img.shields.io/badge/EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github)" (https://github.com/krishnalavania60-create)
 
- - √🪐 ***`THINK DIFFERENTLY`***
- - √🚀 ***`CREATE FEARLESSLY`***
- - √🌌 ***`STAY CURIOUS`***
+ - `🪐` ***`√ THINK DIFFERENTLY`***
+ - `🚀` ***`√ CREATE FEARLESSLY`***
+ - `🌌` ***`√ STAY CURIOUS`***
 
 <ins>The journey is still unfolding.</ins>
 
