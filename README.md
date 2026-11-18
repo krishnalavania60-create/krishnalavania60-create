@@ -10,7 +10,7 @@
 
 `Creator with no limits`
 
-##### 🧭 Always Exploring · ✧ Always Learning
+#### 🧭 Always Exploring · 🌌 Always Learning
 
 </div>---
 
