@@ -50,16 +50,6 @@ A productivity application concept combining focus sessions, reminders, alarms, 
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,git,github,vscode&theme=dark"/></div>Currently exploring programming fundamentals, interactive interfaces, AI tools and 3D development.
 
-### **`🏆 EXP & MILESTONES`**
-
-- ▶️ Content Creation 
-- 🪐 1,500–2,000 YouTube subscribers 
-- 🎥 Video Editing AMVs and visual storytelling 
-- 📺 Content Reach 100K–500K cumulative views 
-- 📈 Entrepreneurship Dropshipping, marketing and online sales 
-- 🎯 Shooting Official APSA certificate 
-- 🏓 Table Tennis Playing and developing   skills 
-- 🎮 Reached Stage 2 of CODM World Championship...
 
 ### **`🔭 BEYOND THE SCREEN`**
 
