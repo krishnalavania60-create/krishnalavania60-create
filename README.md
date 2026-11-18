@@ -10,7 +10,7 @@
 
 `Creator with no limits`
 
-##### 🇮🇳 India · 🧭 Always Exploring · ✧ Always Learning
+##### 🧭 Always Exploring · ✧ Always Learning
 
 </div>---
 
