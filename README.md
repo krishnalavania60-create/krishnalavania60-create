@@ -24,6 +24,7 @@ I enjoy exploring different fields, experimenting with ideas and turning concept
 - 🚀 Entrepreneurship and digital products.
 - 🎬 Creative editing and visual storytelling.
 - 🔭 Science, space and emerging technologies.
+- 🎮 CODM (Ex-esport player)
 
 ### **`🪐 THINGS I'M BUILDING`**
 
