@@ -1,4 +1,4 @@
-#### `Yoo ✌🏻, how're y'all doing ✨?`
+#### `Yoo ✌🏻, how're y'all doing?`
 
 
 
