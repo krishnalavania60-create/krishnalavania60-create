@@ -1,6 +1,7 @@
 
 **<div align="center">✨ THINK · CREATE · EXPLORE ✨**
-***<div align="center">✦ KRISHNA LAVANIA ✦***
+
+`***<div align="center">✦ KRISHNA LAVANIA ✦***`
 
 CREATIVE THINKER · ASPIRING DEVELOPER · FUTURE ENTREPRENEUR
 
