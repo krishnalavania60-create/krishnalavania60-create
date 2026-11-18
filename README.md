@@ -58,7 +58,8 @@ A productivity application concept combining focus sessions, reminders, alarms, 
 - 📺 Content Reach 100K–500K cumulative views 
 - 📈 Entrepreneurship Dropshipping, marketing and online sales 
 - 🎯 Shooting Official APSA certificate 
-- 🏓 Table Tennis Playing and developing   skills • 🎮 Reached Stage 2 of CODM World Championship...
+- 🏓 Table Tennis Playing and developing   skills 
+- 🎮 Reached Stage 2 of CODM World Championship...
 
 ### **`🔭 BEYOND THE SCREEN`**
 
