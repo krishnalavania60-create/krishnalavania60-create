@@ -11,7 +11,7 @@ Curiosity into Creation.
 
 </div>---
 
-## **`☄️ A LITTLE ABOUT ME`**
+### **`☄️ A LITTLE ABOUT ME`**
 
 Hey! I'm Krishna Lavania, a student with a strong curiosity for technology, creativity, science and entrepreneurship.
 
@@ -74,7 +74,7 @@ Field| Experience
 - Developing useful digital products.
 - Learning business and product development.
 
-## ***`🕊️ LET'S CONNECT`***
+## **`🕊️ LET'S CONNECT`**
 
 Always interested in discovering new ideas, exploring interesting projects and learning from creative people.
 
