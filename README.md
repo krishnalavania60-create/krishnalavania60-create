@@ -7,8 +7,6 @@
 
 ## ***<div align="center">`✦ KRISHNA LAVANIA ✦`***
 
-CREATIVE THINKER · ASPIRING DEVELOPER · FUTURE ENTREPRENEUR
-
 `Curiosity into Creation.`
 
 🇮🇳 India · 🧭 Always Exploring · ✧ Always Learning
