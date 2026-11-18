@@ -8,7 +8,7 @@
 
 ## ***<div align="center">`✦ KRISHNA LAVANIA ✦`***
 
-`Curiosity into Creation.`
+`Creator with no limits`
 
 🇮🇳 India · 🧭 Always Exploring · ✧ Always Learning
 
