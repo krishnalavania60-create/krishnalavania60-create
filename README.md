@@ -52,13 +52,12 @@ A productivity application concept combining focus sessions, reminders, alarms, 
 
 ### **`🏆 EXP & MILESTONES`**
 
-Field| Experience
-🎞️ Content Creation| 1,500–2,000 YouTube subscribers
-🎥 Video Editing| AMVs and visual storytelling
-📺 Content Reach| 100K–500K cumulative views
-📈 Entrepreneurship| Dropshipping, marketing and online sales
-🎯 Shooting| Official APSA certificate
-🏓 Table Tennis| Playing and developing skills
+🎞️ Content Creation • 1,500–2,000 YouTube subscribers • 
+🎥 Video Editing AMVs and visual storytelling • 
+📺 Content Reach 100K–500K cumulative views • 
+📈 Entrepreneurship Dropshipping, marketing and online sales • 
+🎯 Shooting Official APSA certificate • 
+🏓 Table Tennis Playing and developing •  skills • 🎮 Reached Stage 2 of CODM World Championship...
 
 ### **`🔭 BEYOND THE SCREEN`**
 
