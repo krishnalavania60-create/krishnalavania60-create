@@ -1,5 +1,5 @@
 
-**<div align="center">✨ THINK · CREATE · EXPLORE ✨**
+**<div align="center"><ins>✨ THINK · CREATE · EXPLORE ✨</ins>**
 
 ## ***<div align="center">`✦ KRISHNA LAVANIA ✦`***
 
