@@ -23,7 +23,7 @@ I enjoy exploring different fields, experimenting with ideas and turning concept
 - 🎬 Creative editing and visual storytelling.
 - 🔭 Science, space and emerging technologies.
 
-🪐 THINGS I'M BUILDING
+## **`🪐 THINGS I'M BUILDING`**
 
 🧬 01. NEURAL — Inside the Human Mind
 
@@ -43,11 +43,11 @@ A productivity application concept combining focus sessions, reminders, alarms, 
 
 "Application Development" "UI/UX" "Productivity"
 
-⚙️ MY DIGITAL PLAYGROUND
+## **`⚙️ MY DIGITAL PLAYGROUND`**
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,git,github,vscode&theme=dark"/></div>Currently exploring programming fundamentals, interactive interfaces, AI tools and 3D development.
 
-🏆 EXPERIENCES & MILESTONES
+## **`🏆 EXPERIENCES & MILESTONES`**
 
 Field| Experience
 🎞️ Content Creation| 1,500–2,000 YouTube subscribers
@@ -57,7 +57,7 @@ Field| Experience
 🎯 Shooting| Official APSA certificate
 🏓 Table Tennis| Playing and developing skills
 
-🔭 BEYOND THE SCREEN
+## **`🔭 BEYOND THE SCREEN`**
 
 - 🧬 Neuroscience and human perception
 - 🛰️ Space and scientific discoveries
@@ -66,7 +66,7 @@ Field| Experience
 - 🏓 Sports and competition
 - 💡 Business and entrepreneurship
 
-🌱 WHAT'S NEXT?
+## **`🌱 WHAT'S NEXT?`**
 
 - Building advanced web applications.
 - Exploring artificial intelligence.
@@ -74,7 +74,7 @@ Field| Experience
 - Developing useful digital products.
 - Learning business and product development.
 
-🕊️ LET'S CONNECT
+# ***`🕊️ LET'S CONNECT`***
 
 Always interested in discovering new ideas, exploring interesting projects and learning from creative people.
 
